@@ -1,0 +1,1 @@
+{"version":3,"sources":["LoadScreen.css","App.css"],"names":[],"mappings":"AAAA,SACE,0BAAmB,CAAnB,kBAAmB,CACnB,oBAAa,CAAb,YAAa,CACb,8BAAuB,CAAvB,sBACF,CCJA,GACE,qBACF","file":"main.31fff509.chunk.css","sourcesContent":[".loading {\n  align-items: center;\n  display: flex;\n  justify-content: center;\n}\n","td {\n  border: solid 1px black;\n}\n\n"]}
